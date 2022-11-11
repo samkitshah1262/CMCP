@@ -1,0 +1,1 @@
+{"name":"Local: chef and pal","url":"c:\\Users\\SAMKIT\\CP\\chef and pal.cpp","tests":[{"id":1639579036627,"input":"2\n9\n8","output":"-1\n10010110"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\SAMKIT\\CP\\chef and pal.cpp","group":"local","local":true}
